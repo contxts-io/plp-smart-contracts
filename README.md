@@ -1,4 +1,7 @@
-# lending-contract [![CI](https://github.com/pineprotocol/borrowing-frontend/workflows/CI/badge.svg)](https://github.com/pineprotocol/borrowing-frontend/actions/workflows/ci.yml)
+# lending-contract [![CI](https://github.com/pinedefi/plp-smart-contracts/workflows/CI/badge.svg)](https://github.com/pinedefi/plp-smart-contracts/actions/workflows/ci.yml)
+
+## Audits
+`/audits`
 
 ## Usage
 
@@ -10,6 +13,3 @@ $ npm test
 
 ```
 
-## Known Issues
-
-`CryptoPunksMarket.json` is the precompiled bytecode for Cryptopunks contract due to it using a legacy solidity version. Please do not delete.
